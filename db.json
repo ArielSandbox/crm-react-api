@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "CyberWarrior",
+      "email": "correo@correo.com",
+      "telefono": "2312321321",
+      "notas": "Notas",
+      "id": 1
+    },
+    {
+      "nombre": "Juan",
+      "empresa": "CyberWarrior",
+      "email": "correo@correo.com",
+      "telefono": "2312321321",
+      "notas": "Notas",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Diseños Karen",
+      "email": "karen@disenos.com",
+      "telefono": "123213123321",
+      "notas": "Cotizando algo\n",
+      "id": 3
+    },
+    {
+      "nombre": "José",
+      "empresa": "Colmado Pared",
+      "email": "jose@pared.com",
+      "telefono": "",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
